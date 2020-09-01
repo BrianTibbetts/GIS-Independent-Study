@@ -1,5 +1,5 @@
-# GIS-Independent-Study
-## Links to Jupyter Notebooks pages I created for geographic data analysis:
+# GIS-Independent-Study: Geographic data analysis using Jupyter Notebooks
+## Links to Jupyter Notebooks pages:
 
 - https://nbviewer.jupyter.org/github/BrianTibbetts/Jupyter-Notebook-Test/blob/master/hello_world_binder.ipynb
 
