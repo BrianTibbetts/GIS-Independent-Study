@@ -1,8 +1,9 @@
 # GIS-Independent-Study: Geographic data analysis using Jupyter Notebooks
 ## Links to Jupyter Notebooks pages:
 
-- https://nbviewer.jupyter.org/github/BrianTibbetts/Jupyter-Notebook-Test/blob/master/hello_world_binder.ipynb
+- [A practice page](https://nbviewer.jupyter.org/github/BrianTibbetts/Jupyter-Notebook-Test/blob/master/hello_world_binder.ipynb)
 
+- [Project 1: Tracking conflict related to the 2011 East African drought](https://nbviewer.jupyter.org/github/BrianTibbetts/Africa-GIS-Project/blob/master/Africa-GIS-Project/East-African-2011-Drought-Conflict.ipynb)
 
 ## Resources and Guides
 
