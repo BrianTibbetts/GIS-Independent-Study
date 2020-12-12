@@ -1,8 +1,6 @@
 # GIS-Independent-Study: Geographic data analysis using Jupyter Notebooks
 ## Links to Jupyter Notebooks pages:
 
-- [A practice page](https://nbviewer.jupyter.org/github/BrianTibbetts/Jupyter-Notebook-Test/blob/master/hello_world_binder.ipynb)
-
 - [Project 1: Tracking conflict related to the 2011 East African drought](https://nbviewer.jupyter.org/github/BrianTibbetts/Africa-GIS-Project/blob/master/Africa-GIS-Project/East-African-2011-Drought-Conflict.ipynb)
 
 - [Project 2: A time series of NOAA Climate data focused on temperatures outside the norm](https://nbviewer.jupyter.org/github/BrianTibbetts/US-Climate-Time-Series/blob/main/US-Avg-Temp-Shift.ipynb)
@@ -17,6 +15,7 @@
 #### Intro to GIS
 
 - https://docs.qgis.org/3.10/en/docs/gentle_gis_introduction/index.html
+- [A practice Jupyter Notebook page](https://nbviewer.jupyter.org/github/BrianTibbetts/Jupyter-Notebook-Test/blob/master/hello_world_binder.ipynb)
 
 #### Kaggle guide on Geospatial Analysis
 
