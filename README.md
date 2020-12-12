@@ -30,5 +30,4 @@
 - https://scitools.org.uk/cartopy/docs/latest/
 - https://matplotlib.org/3.3.1/contents.html
 - https://pandas.pydata.org/docs/
-- https://docs.qgis.org/3.10/en/docs/pyqgis_developer_cookbook/index.html
 - https://python-visualization.github.io/folium/
