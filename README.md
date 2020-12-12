@@ -9,6 +9,8 @@
 
 - [Project 3: Analysis of traffic accidents in the UK](https://nbviewer.jupyter.org/github/BrianTibbetts/UK-Traffic-Accidents/blob/main/UK-Per-Capita-Traffic.ipynb)
 
+- [Project 4: U.S. Greenhouse Gas Emissions by State in 2014](https://nbviewer.jupyter.org/github/BrianTibbetts/EPA-Air-Pollution/blob/main/EPA-Air-Pollution.ipynb)
+
 ## Resources and Guides
 
 
@@ -18,7 +20,7 @@
 
 #### Kaggle guide on Geospatial Analysis
 
--https://www.kaggle.com/learn/geospatial-analysis
+- https://www.kaggle.com/learn/geospatial-analysis
 
 #### QGIS Training Manual
 
@@ -30,3 +32,4 @@
 - https://matplotlib.org/3.3.1/contents.html
 - https://pandas.pydata.org/docs/
 - https://docs.qgis.org/3.10/en/docs/pyqgis_developer_cookbook/index.html
+- https://python-visualization.github.io/folium/
