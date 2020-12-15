@@ -11,24 +11,24 @@ Matplotlib handles objects representing static maps, and Folium is used to creat
 #### Architecture Design
 
 Once the data for each project is available, it's transformed to meet the needs of the project.
-Pandas and Geopandas methods are used to narrow down the data to relevant information.
+Pandas and Geopandas functions are used to narrow down the data to relevant information.
 Project 1 counts events by latitude and longitude and filters out data below the top 100 locations for events.
 In project 2, the data is aggregated by a map of U.S. climate divisions defined by the NOAA.
 Project 3 transforms several data sets, the most major example being that traffic data and population data are combined to form a per capita data set.
 Project 4 uses Pandas to filter out unnecessary data and aggregate data by state.
 
-Each project makes a final transformation to display the data as a map. Usually this is with a visualization function of Matplotlib or Folium.
-Some visualizations were created with custom behavior, like the colors defined for the bubble maps in projects 3 and 4.
+Each project makes a final transformation to display the data as a map. Usually this is with a function of Matplotlib or Folium. For example, in projects 3 and 4, Folium's Circle function draws bubbles centered on latitude and longitude points.
 
 #### Interface Design
 
-Pandas methods are used to read in data from csv files in most cases.
+Pandas functions are used to read in data from csv files in most cases.
 Project 1 uses Google BigQuery to access data archived by GDELT without reading a specific file.
 Kaggle's API is called in projects 2, 3, and 4 to download specific data sets relevant to those projects.
 
 #### Procedural Design
 
-Python is object-oriented, so there wasn't any procedural design to speak of in this project.
+Project 2 used Python's built in functions the most, with Math.sqrt to help calculate the z-score and a filename made using os.path.
+The bubble maps in project 4 used a custom function made to pick colors.
 
 
 ## Links to Jupyter Notebooks pages:
